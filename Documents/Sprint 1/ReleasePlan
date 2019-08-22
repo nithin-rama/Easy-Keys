@@ -1,0 +1,65 @@
+Release Plan
+
+Team Name: iM Keys
+Team Product: iOS Easy Keyboard
+Release Name: Primary Release
+Release Date: 
+Revision Number: 1
+Revision Date 6/30/19
+
+
+
+
+High Level Goals:
+
+Be able to play a piano on the app (but with limitations of monophonic playing).
+
+Be able to play piano on the app (with polyphonic capabilities).
+
+Be able to display the selected scale or mode on the keyboard.
+
+Be able to select a given mode / scale from a list.
+
+Be able to visually “lock” the scale onto the keyboard.
+
+
+
+
+User Stories:
+
+
+Story #1 :- As a user I want to see a keyboard (or some representation of the 12 tones), so that I can play music. (8)
+
+Story #2 :- As a user, I want the keys to make sound when I push them so that I can hear what I am playing. (8)
+
+Story #3 :- As a user, I want the keys to look different when I push them so that I know which key I am hitting. (8)
+
+
+
+Story #4 :- As a user, I want to be able to select a scale, so that I can see the notes of that scale highlighted. (3)
+
+Story #5 :- As a user, I want the notes in the key I have selected to be visually distinguished, so that I can find those notes easier on the keyboard. (5)
+
+Story #6 :- As a user, I want to play chords, so that I can write chord progressions. (13)
+
+Sprints:
+
+	Sprint 1: 
+(8). User Story #1
+(8). User Story #2
+(8). User Story #3
+
+Sprint 2:
+(3). User Story #4
+(5). User Story $5
+
+	Sprint 3:
+(13) User Story #6
+
+
+Product Backlog:
+
+Be able to record and export MIDI data. (21)
+
+
+
